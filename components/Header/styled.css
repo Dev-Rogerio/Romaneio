@@ -32,3 +32,13 @@
     position: absolute;
     left: 50px;
 }
+.vm {
+    position:absolute;
+    top: 288px;
+    left: 70px;
+    font-size: 22px;
+    color: #000;
+    font-family: sans-serif;
+    font-weight: bolder 100;
+
+}
