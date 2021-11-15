@@ -66,7 +66,7 @@ export default function App() {
                         <Nota num={6} nome={'nota6'} nota={notas.nota6} setNota={handleSetNotas} />
                         <Nota num={7} nome={'nota7'} nota={notas.nota7} setNota={handleSetNotas} />
                         <Nota num={8} nome={'nota8'} nota={notas.nota8} setNota={handleSetNotas} />
-                        <button className="button" >Limpar</button>
+                        <button className="button" ></button>
                     </div>
 
 
